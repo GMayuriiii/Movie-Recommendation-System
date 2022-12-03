@@ -9,7 +9,7 @@
 
 
 
-![alt-text](link)
+![alt-text](https://github.com/gmayuri1904/Movie-Recommendation-System/blob/main/ezgif.com-gif-maker.gif)
 
 
 
