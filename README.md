@@ -16,7 +16,7 @@
 
 
 ## Live app
-https://movie-recommendation-system-st.herokuapp.com/
+https://gmayuri1904-movie-recommendation-system-app-qnkabd.streamlit.app/
 ## About
 The application uses content based filtering to make recommendations. <br>
 For every movie selected, 12 recommendations ar
